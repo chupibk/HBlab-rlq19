@@ -1,6 +1,6 @@
 A small collected dataset for the worshop paper at ICCV-RLQ'2019. 
 
-https://drive.google.com/drive/folders/1Zn0VOy3zLPWlceTpwHJIe1Y4iHt8Ycxv?usp=sharing
+https://drive.google.com/open?id=1WtO8yO0zsv8wu_m3CAEA_K0vn1lv9W7H
 
 The folder includes all data of 5 categories BILL, CAPTION, (Visa) CARD, NAMECARD, and PRODUCT with their ground truths of text lines; and the detected results of 6 selected state-of-the-art methods: CRAFT, CTPN, EAST, FOTS, PixelLink, and PSENet. 
 
