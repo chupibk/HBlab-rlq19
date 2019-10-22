@@ -1,4 +1,4 @@
-A small collected dataset for the worshop paper at ICCV-RLQ'2019. 
+A small collected dataset for the workshop paper at ICCV-RLQ'2019. 
 
 https://drive.google.com/open?id=1WtO8yO0zsv8wu_m3CAEA_K0vn1lv9W7H
 
